@@ -3,7 +3,7 @@ title: "Raspberry Pi５で電子工作を始めるときに読む記事"
 emoji: "🔧"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["RaspberryPi", "電子工作", "初心者向け"]
-published: false
+published: true
 ---
 
 ## 本稿の目的
