@@ -15,7 +15,6 @@ Raspberry Piを使った電子工作を始めてみたい初心者に、電子�
 ## 前提
 
 - Raspberry Pi 5 を所持している
-- Raspberry Pi へ SSH 接続ができる状態である
 
 ## 1. Raphael Ultimate Kit とは
 
