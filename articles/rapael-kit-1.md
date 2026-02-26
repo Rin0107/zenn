@@ -32,13 +32,13 @@ Raphael Ultimate Kit は Amazon で購入できます。
 
 :::details 他のキットも検討したい場合
 
-#### SunFounder スターター電子工作キット（Raspberry Pi 対応）
+### SunFounder スターター電子工作キット（Raspberry Pi 対応）
 
 Ultimate に比べてパーツ数は少ないですが、その分安価なスターターキットです。Raphael Kit より小規模でコスパよく試したい場合に。Raspberry Pi メインボードは別売りです。
 
 @[card](https://www.amazon.co.jp/dp/B083SJQXCL)
 
-#### SunFounder スターターキット究極版（Raspberry Pi Pico W 対応）
+### SunFounder スターターキット究極版（Raspberry Pi Pico W 対応）
 
 450点以上のパーツと117プロジェクトを収録した大容量キットです。Raspberry Pi Pico W が入っているので、Raspberry Piを持っていない場合にも〇。
 
